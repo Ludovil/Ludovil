@@ -23,7 +23,7 @@ Bonjour! I'm Ludo, a passionate software developer based in Berlin, Germany, wit
 - Collaborative Teamwork
 - Problem Solving and Debugging
 
-I am currently learning **TypeScript**, **Nextjs** and **Testing**.
+
 
 ---
 
